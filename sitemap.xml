@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Main Homepage - Highest Priority for Healthcare Logistics in India -->
+    <url>
+        <loc>https://easterncargo.co.in/</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Pharmaceutical Logistics - Primary Healthcare Service -->
+    <url>
+        <loc>https://easterncargo.co.in/#pharma-logistics</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Services Section - Core Business Information -->
+    <url>
+        <loc>https://easterncargo.co.in/#services</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- About Section - Important for Company Credibility -->
+    <url>
+        <loc>https://easterncargo.co.in/#about</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Air Freight Services - Key Service for Healthcare Logistics -->
+    <url>
+        <loc>https://easterncargo.co.in/#air-freight</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Sea Freight Services - Key Service for Healthcare Logistics -->
+    <url>
+        <loc>https://easterncargo.co.in/#sea-freight</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Customs Brokerage - Important Service -->
+    <url>
+        <loc>https://easterncargo.co.in/#customs-brokerage</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Dangerous Goods Shipments - Specialized Service -->
+    <url>
+        <loc>https://easterncargo.co.in/#dgr-shipments</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Project Logistics - Specialized Service -->
+    <url>
+        <loc>https://easterncargo.co.in/#project-logistics</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Memberships & Certifications - Credibility -->
+    <url>
+        <loc>https://easterncargo.co.in/#memberships</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Key Personnel - Company Information -->
+    <url>
+        <loc>https://easterncargo.co.in/#personnel</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Office Locations - Important for Local SEO -->
+    <url>
+        <loc>https://easterncargo.co.in/#locations</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Customer Reviews - Social Proof -->
+    <url>
+        <loc>https://easterncargo.co.in/#testimonial-section</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Cargo Calculator - Interactive Tool -->
+    <url>
+        <loc>https://easterncargo.co.in/#calculator</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Contact Section - Lead Generation -->
+    <url>
+        <loc>https://easterncargo.co.in/#footer</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Career & Contact Form - Lead Generation -->
+    <url>
+        <loc>https://easterncargo.co.in/#career-contact</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Timeline Section - Company History -->
+    <url>
+        <loc>https://easterncargo.co.in/#timeline-wrapper</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Why Choose Us Section - Value Proposition -->
+    <url>
+        <loc>https://easterncargo.co.in/#why-choose-us</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Home Section - Navigation -->
+    <url>
+        <loc>https://easterncargo.co.in/#home</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+</urlset>
